@@ -1,3 +1,5 @@
+''' I wanted to download the checkout file without opening a browser. But I couldn't figure out how. '''
+
 import json
 import requests
 
